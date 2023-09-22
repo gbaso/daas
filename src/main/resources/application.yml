@@ -1,0 +1,8 @@
+server:
+  http2:
+    enabled: true
+
+spring:
+  threads:
+    virtual:
+      enabled: true
